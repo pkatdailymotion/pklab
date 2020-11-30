@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to PK's Lab on GitHub
 
 You can use the [editor on GitHub](https://github.com/pkatdailymotion/pklab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
