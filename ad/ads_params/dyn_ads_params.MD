@@ -15,7 +15,7 @@ note: https://dailymotion.slack.com/archives/C0JHM40QG/p1612945931057100
 >When videochange is triggered, the current ads_params have already been injected in the AdDirector. So with their current code, for each video loaded, they will get the tags from the previous video
 
 
-#HTML
+# HTML
 ```
 <h1>Dailymotion CPE setAdsConfig</h1>
 
@@ -33,7 +33,7 @@ note: https://dailymotion.slack.com/archives/C0JHM40QG/p1612945931057100
 </script>
 ```
 
-#JS
+# JS
 ```
 window.addEventListener('cpeready', ({ detail: { players } }) => {
   players.forEach(player => {
